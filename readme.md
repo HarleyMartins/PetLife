@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Landing Page para um PetShop fictício contendo diversas informações relevantes!
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://pet-life-rho.vercel.app/)
 
 ## 🔖 Layout
 
